@@ -1,8 +1,9 @@
-package main
+package golearn1
 
 import "fmt"
 
-func main() {
+//Namedump is dumper of name
+func Namedump() {
 	fname := "Dan"
 	lname := "L"
 	fmt.Println("First name is:", fname)
